@@ -26,10 +26,5 @@ Users can utilize this tool to achieve financial awareness and control over pers
 2. C# (.NET Console Application)
 3. Python (Standard Console Application)
    
-## Setup Instructions
-
-C# Version 
-  1. 
-
 ## How to use the App
 
