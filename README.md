@@ -20,7 +20,7 @@ Add and Manage Transactions: Create unique descriptions for your income and expe
 Sort transactions into several categories, such as food, transportation, entertainment, etc.
 Examine the Transaction History:
 To view a list of recent transactions, apply a date or category filter.
-Establish and Monitor Budgets: Establish weekly or monthly spending plans for various categories.
+Establish and Monitor Budgets: Establish weekly or monthly spending plans for various caterories.
 
 ## Technologies Used 
 
