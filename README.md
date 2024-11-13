@@ -81,7 +81,7 @@ node budgetTracker.js
 dotnet run BudgetTracker.cs
  ```
 
-## J SON Data File
+## JSON Data File
 
 The data.json file contains transaction data and savings goals and should be placed in each language folder.
 
