@@ -8,18 +8,18 @@ Users can utilize this tool to achieve financial awareness and control over pers
 
 ## Project Goals
 
-Financial Awareness: Enable consumers to comprehend their financial behaviour by monitoring income and spendings.
-Financial Discipline: Assist users in establishing and adhering to budgetary objectives while remaining within spending constraints.
-Data Insights: Deliver visual analyses and summaries to assist consumers in making informed financial choices.
-Usability: Provide a simplified, intuitive interface that users of varying expertise can navigate with ease.
+- Financial Awareness: Enable consumers to comprehend their financial behaviour by monitoring income and spendings.
+- Financial Discipline: Assist users in establishing and adhering to budgetary objectives while remaining within spending constraints.
+- Data Insights: Deliver visual analyses and summaries to assist consumers in making informed financial choices.
+- Usability: Provide a simplified, intuitive interface that users of varying expertise can navigate with ease.
 
 ## Features 
 
-Add and Manage Transactions: Create unique descriptions for your income and expenses.
-Sort transactions into several categories, such as food, transportation, entertainment, etc.
-Examine the Transaction History:
+- Add and Manage Transactions: Create unique descriptions for your income and expenses.
+- Sort transactions into several categories, such as food, transportation, entertainment, etc.
+- Examine the Transaction History:
 To view a list of recent transactions, apply a date or category filter.
-Establish and Monitor Budgets: Establish weekly or monthly spending plans for various caterories.
+- Establish and Monitor Budgets: Establish weekly or monthly spending plans for various caterories.
 
 ## Technologies Used 
 
