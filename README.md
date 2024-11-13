@@ -24,8 +24,14 @@ Establish and Monitor Budgets: Establish weekly or monthly spending plans for va
 
 ## Technologies Used 
 
-Frontend: JavaScript 
-Backend: Node.js, Express.js
-Version Control: Git
+1. JavaScript (Node.js Console Application)
+2. C# (.NET Console Application)
+3. Python (Standard Console Application)
+   
+## Setup Instructions
 
-## 
+C# Version 
+  1. 
+
+## How to use the App
+
