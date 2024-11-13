@@ -1,5 +1,4 @@
-# Git-project
-Personal Budget Tracker 
+## Personal Budget Tracker 
 
 ## Description 
 
