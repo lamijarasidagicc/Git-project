@@ -25,6 +25,26 @@ Users can utilize this tool to achieve financial awareness and control over pers
 1. JavaScript (Node.js Console Application)
 2. C# (.NET Console Application)
 3. Python (Standard Console Application)
+
+## Project structutre 
+   ```
+   
+Personal_Budget_Tracker
+│
+├── Python/
+│   ├── budget_tracker.py
+│
+├── JavaScript/
+│   ├── budgetTracker.js
+│
+├── C#/
+│   ├── BudgetTracker.cs
+│
+└── data.json
+
+```
+
+
    
 ## How to use the App
 
