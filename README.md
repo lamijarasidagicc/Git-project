@@ -17,8 +17,7 @@ Users can utilize this tool to achieve financial awareness and control over pers
 
 - Add and Manage Transactions: Create unique descriptions for your income and expenses.
 - Sort transactions into several categories, such as food, transportation, entertainment, etc.
-- Examine the Transaction History:
-To view a list of recent transactions, apply a date or category filter.
+- Examine the Transaction History: To view a list of recent transactions, apply a date or category filter.
 - Establish and Monitor Budgets: Establish weekly or monthly spending plans for various caterories.
 
 ## Technologies Used 
