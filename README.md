@@ -89,14 +89,14 @@ JSON Structure:
  ```   
 [
    {
-       "date": "2024-01-01",
+       "date": "2024-11-13",
        "type": "income",
        "category": "Salary",
        "amount": 1500,
        "description": "Monthly paycheck"
    },
    {
-       "date": "2024-01-02",
+       "date": "2024-11-14",
        "type": "expense",
        "category": "Groceries",
        "amount": 50,
@@ -106,7 +106,74 @@ JSON Structure:
   ``` 
   ## User Interaction
 
-1.  **Starting the Budget Tracker** 
+1.  **Starting the Budget Tracker**
+   
     Users are prompted to enter income or expense transactions and view summaries or set goals.
-    
+```
+Welcome to the Personal Budget Tracker!
+Please select an option:
+1. Add Income
+2. Add Expense
+3. View Monthly Summary
+```
 
+2. **Logging Transactions**
+ 
+Users input income or expenses by providing the amount, category, and description.
+
+3. **Setting Goals**
+   
+Users can set a savings goal, and the tracker monitors progress.
+
+## Feedback and Reports
+
+Provides a monthly summary and feedback on whether the user is meeting their savings goals.
+
+Example:
+    
+   ```
+Monthly Summary:
+Total Income: 2000 KM
+Total Expenses: 1600 KM
+Savings: 400 KM
+
+```
+## Function Details
+
+- AddTransaction
+  
+Purpose: Allows the user to log income or expenses. Output: Updates balance and data.json.
+
+- ViewSummary
+  
+Purpose: Provides a breakdown of monthly income, expenses, and balance. Output: Displays current month summary.
+
+- SetGoal
+  
+Purpose: Enables users to set a monthly savings goal. Output: Displays goal progress.
+
+- TrackProgress
+  
+Purpose: Tracks goal progress and provides updates. Output: Shows progress percentage.
+
+- LoadData
+  
+Purpose: Loads transaction data from JSON file. Output: Returns stored transactions.
+
+- SaveData
+  
+Purpose: Saves current transaction data. Output: Writes to data.json file.
+
+- GenerateReport
+  
+Purpose: Creates monthly or custom reports. Output: Displays summary report.
+
+- DisplayWarnings
+  
+Purpose: Alerts users when spending exceeds income. Output: Displays spending warning.
+
+## Future Enhancements
+
+- Automatic Bank Sync: Integrate with banking APIs for automated transaction import.
+- Expense Analysis: Generate insights on spending patterns.
+- Recurring Expenses: Automate logging for recurring bills or income.
