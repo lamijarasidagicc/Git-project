@@ -4,7 +4,7 @@
 
 The Personal Budget Tracker is a console-based application that helps users manage and track their finances efficiently. Built using Python, JavaScript, and C#, this project showcases cross-language programming skills and provides a simple, intuitive way for users to monitor income, expenses, and savings goals.
 
-## Project Goals
+## Project Goals    
 
 - Financial Management Tool: To create an interactive budget tracker that allows users to track income, expenses, and savings across different categories.
 - Cross-Language Practice: To demonstrate proficiency in Python, JavaScript, and C#, making the budget tracker accessible across multiple platforms.
